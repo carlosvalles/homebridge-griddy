@@ -2,7 +2,7 @@
 //
 // The configuration is stored inside the ../config.json
 // {
-//     "platform": "Griddy",
+//     "accessory": "Griddy",
 //     "name":     "Griddy",
 //     ";oadZone" : "LZ_NORTH",
 //     "highPriceThreshold" : "10.5",
