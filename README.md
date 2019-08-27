@@ -17,11 +17,11 @@ It is a partially-working implementation into HomeKit. This plugin is work in pr
 ```
 "accessories": [
  {
-     "accessory": "Griddy",
-     "name":     "Griddy",
+     "accessory" : "Griddy",
+     "name" : "Griddy",
      "loadZone" : "LZ_NORTH",
      "highPriceThreshold" : "10.5",
-     "debug" : "True",      - Optional
+     "debug" : "True"      - Optional
  },
     ]
 ```
@@ -41,4 +41,3 @@ It is a partially-working implementation into HomeKit. This plugin is work in pr
 
 
 # Credits
-
