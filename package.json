@@ -1,0 +1,30 @@
+{
+  "name": "homebridge-griddy",
+  "version": "1.1.0",
+  "description": "Homebridge plugin that surfaces a high electricity switch for Griddy subscribers",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senorshaun/homebridge-griddy.git"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "griddy",
+    "electricity",
+    "ERCOT"
+  ],
+  "author": "SenorShaun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/senorshaun/homebridge-griddy/issues"
+  },
+  "homepage": "https://github.com/senorshaun/homebridge-griddy#readme",
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "cheerio": ">=1.0.0-rc.3",
+    "request": ">=2.88.0"
+  }
+}
